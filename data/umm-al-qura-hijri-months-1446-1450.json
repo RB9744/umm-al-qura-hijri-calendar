@@ -1,0 +1,542 @@
+[
+ {
+  "hijri_year": 1446,
+  "month": 1,
+  "month_name_en": "Muharram",
+  "month_name_ar": "محرم",
+  "first_day": "2024-07-07",
+  "last_day": "2024-08-04",
+  "days": 29
+ },
+ {
+  "hijri_year": 1446,
+  "month": 2,
+  "month_name_en": "Safar",
+  "month_name_ar": "صفر",
+  "first_day": "2024-08-05",
+  "last_day": "2024-09-03",
+  "days": 30
+ },
+ {
+  "hijri_year": 1446,
+  "month": 3,
+  "month_name_en": "Rabi al-Awwal",
+  "month_name_ar": "ربيع الأول",
+  "first_day": "2024-09-04",
+  "last_day": "2024-10-03",
+  "days": 30
+ },
+ {
+  "hijri_year": 1446,
+  "month": 4,
+  "month_name_en": "Rabi al-Thani",
+  "month_name_ar": "ربيع الآخر",
+  "first_day": "2024-10-04",
+  "last_day": "2024-11-02",
+  "days": 30
+ },
+ {
+  "hijri_year": 1446,
+  "month": 5,
+  "month_name_en": "Jumada al-Ula",
+  "month_name_ar": "جمادى الأولى",
+  "first_day": "2024-11-03",
+  "last_day": "2024-12-01",
+  "days": 29
+ },
+ {
+  "hijri_year": 1446,
+  "month": 6,
+  "month_name_en": "Jumada al-Akhirah",
+  "month_name_ar": "جمادى الآخرة",
+  "first_day": "2024-12-02",
+  "last_day": "2024-12-31",
+  "days": 30
+ },
+ {
+  "hijri_year": 1446,
+  "month": 7,
+  "month_name_en": "Rajab",
+  "month_name_ar": "رجب",
+  "first_day": "2025-01-01",
+  "last_day": "2025-01-30",
+  "days": 30
+ },
+ {
+  "hijri_year": 1446,
+  "month": 8,
+  "month_name_en": "Shaban",
+  "month_name_ar": "شعبان",
+  "first_day": "2025-01-31",
+  "last_day": "2025-02-28",
+  "days": 29
+ },
+ {
+  "hijri_year": 1446,
+  "month": 9,
+  "month_name_en": "Ramadan",
+  "month_name_ar": "رمضان",
+  "first_day": "2025-03-01",
+  "last_day": "2025-03-29",
+  "days": 29
+ },
+ {
+  "hijri_year": 1446,
+  "month": 10,
+  "month_name_en": "Shawwal",
+  "month_name_ar": "شوال",
+  "first_day": "2025-03-30",
+  "last_day": "2025-04-28",
+  "days": 30
+ },
+ {
+  "hijri_year": 1446,
+  "month": 11,
+  "month_name_en": "Dhu al-Qadah",
+  "month_name_ar": "ذو القعدة",
+  "first_day": "2025-04-29",
+  "last_day": "2025-05-27",
+  "days": 29
+ },
+ {
+  "hijri_year": 1446,
+  "month": 12,
+  "month_name_en": "Dhu al-Hijjah",
+  "month_name_ar": "ذو الحجة",
+  "first_day": "2025-05-28",
+  "last_day": "2025-06-25",
+  "days": 29
+ },
+ {
+  "hijri_year": 1447,
+  "month": 1,
+  "month_name_en": "Muharram",
+  "month_name_ar": "محرم",
+  "first_day": "2025-06-26",
+  "last_day": "2025-07-25",
+  "days": 30
+ },
+ {
+  "hijri_year": 1447,
+  "month": 2,
+  "month_name_en": "Safar",
+  "month_name_ar": "صفر",
+  "first_day": "2025-07-26",
+  "last_day": "2025-08-23",
+  "days": 29
+ },
+ {
+  "hijri_year": 1447,
+  "month": 3,
+  "month_name_en": "Rabi al-Awwal",
+  "month_name_ar": "ربيع الأول",
+  "first_day": "2025-08-24",
+  "last_day": "2025-09-22",
+  "days": 30
+ },
+ {
+  "hijri_year": 1447,
+  "month": 4,
+  "month_name_en": "Rabi al-Thani",
+  "month_name_ar": "ربيع الآخر",
+  "first_day": "2025-09-23",
+  "last_day": "2025-10-22",
+  "days": 30
+ },
+ {
+  "hijri_year": 1447,
+  "month": 5,
+  "month_name_en": "Jumada al-Ula",
+  "month_name_ar": "جمادى الأولى",
+  "first_day": "2025-10-23",
+  "last_day": "2025-11-21",
+  "days": 30
+ },
+ {
+  "hijri_year": 1447,
+  "month": 6,
+  "month_name_en": "Jumada al-Akhirah",
+  "month_name_ar": "جمادى الآخرة",
+  "first_day": "2025-11-22",
+  "last_day": "2025-12-20",
+  "days": 29
+ },
+ {
+  "hijri_year": 1447,
+  "month": 7,
+  "month_name_en": "Rajab",
+  "month_name_ar": "رجب",
+  "first_day": "2025-12-21",
+  "last_day": "2026-01-19",
+  "days": 30
+ },
+ {
+  "hijri_year": 1447,
+  "month": 8,
+  "month_name_en": "Shaban",
+  "month_name_ar": "شعبان",
+  "first_day": "2026-01-20",
+  "last_day": "2026-02-17",
+  "days": 29
+ },
+ {
+  "hijri_year": 1447,
+  "month": 9,
+  "month_name_en": "Ramadan",
+  "month_name_ar": "رمضان",
+  "first_day": "2026-02-18",
+  "last_day": "2026-03-19",
+  "days": 30
+ },
+ {
+  "hijri_year": 1447,
+  "month": 10,
+  "month_name_en": "Shawwal",
+  "month_name_ar": "شوال",
+  "first_day": "2026-03-20",
+  "last_day": "2026-04-17",
+  "days": 29
+ },
+ {
+  "hijri_year": 1447,
+  "month": 11,
+  "month_name_en": "Dhu al-Qadah",
+  "month_name_ar": "ذو القعدة",
+  "first_day": "2026-04-18",
+  "last_day": "2026-05-17",
+  "days": 30
+ },
+ {
+  "hijri_year": 1447,
+  "month": 12,
+  "month_name_en": "Dhu al-Hijjah",
+  "month_name_ar": "ذو الحجة",
+  "first_day": "2026-05-18",
+  "last_day": "2026-06-15",
+  "days": 29
+ },
+ {
+  "hijri_year": 1448,
+  "month": 1,
+  "month_name_en": "Muharram",
+  "month_name_ar": "محرم",
+  "first_day": "2026-06-16",
+  "last_day": "2026-07-14",
+  "days": 29
+ },
+ {
+  "hijri_year": 1448,
+  "month": 2,
+  "month_name_en": "Safar",
+  "month_name_ar": "صفر",
+  "first_day": "2026-07-15",
+  "last_day": "2026-08-13",
+  "days": 30
+ },
+ {
+  "hijri_year": 1448,
+  "month": 3,
+  "month_name_en": "Rabi al-Awwal",
+  "month_name_ar": "ربيع الأول",
+  "first_day": "2026-08-14",
+  "last_day": "2026-09-11",
+  "days": 29
+ },
+ {
+  "hijri_year": 1448,
+  "month": 4,
+  "month_name_en": "Rabi al-Thani",
+  "month_name_ar": "ربيع الآخر",
+  "first_day": "2026-09-12",
+  "last_day": "2026-10-11",
+  "days": 30
+ },
+ {
+  "hijri_year": 1448,
+  "month": 5,
+  "month_name_en": "Jumada al-Ula",
+  "month_name_ar": "جمادى الأولى",
+  "first_day": "2026-10-12",
+  "last_day": "2026-11-10",
+  "days": 30
+ },
+ {
+  "hijri_year": 1448,
+  "month": 6,
+  "month_name_en": "Jumada al-Akhirah",
+  "month_name_ar": "جمادى الآخرة",
+  "first_day": "2026-11-11",
+  "last_day": "2026-12-09",
+  "days": 29
+ },
+ {
+  "hijri_year": 1448,
+  "month": 7,
+  "month_name_en": "Rajab",
+  "month_name_ar": "رجب",
+  "first_day": "2026-12-10",
+  "last_day": "2027-01-08",
+  "days": 30
+ },
+ {
+  "hijri_year": 1448,
+  "month": 8,
+  "month_name_en": "Shaban",
+  "month_name_ar": "شعبان",
+  "first_day": "2027-01-09",
+  "last_day": "2027-02-07",
+  "days": 30
+ },
+ {
+  "hijri_year": 1448,
+  "month": 9,
+  "month_name_en": "Ramadan",
+  "month_name_ar": "رمضان",
+  "first_day": "2027-02-08",
+  "last_day": "2027-03-08",
+  "days": 29
+ },
+ {
+  "hijri_year": 1448,
+  "month": 10,
+  "month_name_en": "Shawwal",
+  "month_name_ar": "شوال",
+  "first_day": "2027-03-09",
+  "last_day": "2027-04-07",
+  "days": 30
+ },
+ {
+  "hijri_year": 1448,
+  "month": 11,
+  "month_name_en": "Dhu al-Qadah",
+  "month_name_ar": "ذو القعدة",
+  "first_day": "2027-04-08",
+  "last_day": "2027-05-06",
+  "days": 29
+ },
+ {
+  "hijri_year": 1448,
+  "month": 12,
+  "month_name_en": "Dhu al-Hijjah",
+  "month_name_ar": "ذو الحجة",
+  "first_day": "2027-05-07",
+  "last_day": "2027-06-05",
+  "days": 30
+ },
+ {
+  "hijri_year": 1449,
+  "month": 1,
+  "month_name_en": "Muharram",
+  "month_name_ar": "محرم",
+  "first_day": "2027-06-06",
+  "last_day": "2027-07-04",
+  "days": 29
+ },
+ {
+  "hijri_year": 1449,
+  "month": 2,
+  "month_name_en": "Safar",
+  "month_name_ar": "صفر",
+  "first_day": "2027-07-05",
+  "last_day": "2027-08-02",
+  "days": 29
+ },
+ {
+  "hijri_year": 1449,
+  "month": 3,
+  "month_name_en": "Rabi al-Awwal",
+  "month_name_ar": "ربيع الأول",
+  "first_day": "2027-08-03",
+  "last_day": "2027-09-01",
+  "days": 30
+ },
+ {
+  "hijri_year": 1449,
+  "month": 4,
+  "month_name_en": "Rabi al-Thani",
+  "month_name_ar": "ربيع الآخر",
+  "first_day": "2027-09-02",
+  "last_day": "2027-09-30",
+  "days": 29
+ },
+ {
+  "hijri_year": 1449,
+  "month": 5,
+  "month_name_en": "Jumada al-Ula",
+  "month_name_ar": "جمادى الأولى",
+  "first_day": "2027-10-01",
+  "last_day": "2027-10-30",
+  "days": 30
+ },
+ {
+  "hijri_year": 1449,
+  "month": 6,
+  "month_name_en": "Jumada al-Akhirah",
+  "month_name_ar": "جمادى الآخرة",
+  "first_day": "2027-10-31",
+  "last_day": "2027-11-28",
+  "days": 29
+ },
+ {
+  "hijri_year": 1449,
+  "month": 7,
+  "month_name_en": "Rajab",
+  "month_name_ar": "رجب",
+  "first_day": "2027-11-29",
+  "last_day": "2027-12-28",
+  "days": 30
+ },
+ {
+  "hijri_year": 1449,
+  "month": 8,
+  "month_name_en": "Shaban",
+  "month_name_ar": "شعبان",
+  "first_day": "2027-12-29",
+  "last_day": "2028-01-27",
+  "days": 30
+ },
+ {
+  "hijri_year": 1449,
+  "month": 9,
+  "month_name_en": "Ramadan",
+  "month_name_ar": "رمضان",
+  "first_day": "2028-01-28",
+  "last_day": "2028-02-25",
+  "days": 29
+ },
+ {
+  "hijri_year": 1449,
+  "month": 10,
+  "month_name_en": "Shawwal",
+  "month_name_ar": "شوال",
+  "first_day": "2028-02-26",
+  "last_day": "2028-03-26",
+  "days": 30
+ },
+ {
+  "hijri_year": 1449,
+  "month": 11,
+  "month_name_en": "Dhu al-Qadah",
+  "month_name_ar": "ذو القعدة",
+  "first_day": "2028-03-27",
+  "last_day": "2028-04-25",
+  "days": 30
+ },
+ {
+  "hijri_year": 1449,
+  "month": 12,
+  "month_name_en": "Dhu al-Hijjah",
+  "month_name_ar": "ذو الحجة",
+  "first_day": "2028-04-26",
+  "last_day": "2028-05-24",
+  "days": 29
+ },
+ {
+  "hijri_year": 1450,
+  "month": 1,
+  "month_name_en": "Muharram",
+  "month_name_ar": "محرم",
+  "first_day": "2028-05-25",
+  "last_day": "2028-06-23",
+  "days": 30
+ },
+ {
+  "hijri_year": 1450,
+  "month": 2,
+  "month_name_en": "Safar",
+  "month_name_ar": "صفر",
+  "first_day": "2028-06-24",
+  "last_day": "2028-07-22",
+  "days": 29
+ },
+ {
+  "hijri_year": 1450,
+  "month": 3,
+  "month_name_en": "Rabi al-Awwal",
+  "month_name_ar": "ربيع الأول",
+  "first_day": "2028-07-23",
+  "last_day": "2028-08-21",
+  "days": 30
+ },
+ {
+  "hijri_year": 1450,
+  "month": 4,
+  "month_name_en": "Rabi al-Thani",
+  "month_name_ar": "ربيع الآخر",
+  "first_day": "2028-08-22",
+  "last_day": "2028-09-19",
+  "days": 29
+ },
+ {
+  "hijri_year": 1450,
+  "month": 5,
+  "month_name_en": "Jumada al-Ula",
+  "month_name_ar": "جمادى الأولى",
+  "first_day": "2028-09-20",
+  "last_day": "2028-10-18",
+  "days": 29
+ },
+ {
+  "hijri_year": 1450,
+  "month": 6,
+  "month_name_en": "Jumada al-Akhirah",
+  "month_name_ar": "جمادى الآخرة",
+  "first_day": "2028-10-19",
+  "last_day": "2028-11-17",
+  "days": 30
+ },
+ {
+  "hijri_year": 1450,
+  "month": 7,
+  "month_name_en": "Rajab",
+  "month_name_ar": "رجب",
+  "first_day": "2028-11-18",
+  "last_day": "2028-12-16",
+  "days": 29
+ },
+ {
+  "hijri_year": 1450,
+  "month": 8,
+  "month_name_en": "Shaban",
+  "month_name_ar": "شعبان",
+  "first_day": "2028-12-17",
+  "last_day": "2029-01-15",
+  "days": 30
+ },
+ {
+  "hijri_year": 1450,
+  "month": 9,
+  "month_name_en": "Ramadan",
+  "month_name_ar": "رمضان",
+  "first_day": "2029-01-16",
+  "last_day": "2029-02-13",
+  "days": 29
+ },
+ {
+  "hijri_year": 1450,
+  "month": 10,
+  "month_name_en": "Shawwal",
+  "month_name_ar": "شوال",
+  "first_day": "2029-02-14",
+  "last_day": "2029-03-15",
+  "days": 30
+ },
+ {
+  "hijri_year": 1450,
+  "month": 11,
+  "month_name_en": "Dhu al-Qadah",
+  "month_name_ar": "ذو القعدة",
+  "first_day": "2029-03-16",
+  "last_day": "2029-04-14",
+  "days": 30
+ },
+ {
+  "hijri_year": 1450,
+  "month": 12,
+  "month_name_en": "Dhu al-Hijjah",
+  "month_name_ar": "ذو الحجة",
+  "first_day": "2029-04-15",
+  "last_day": "2029-05-13",
+  "days": 29
+ }
+]
