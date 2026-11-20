@@ -34,6 +34,10 @@ The month starts were read from the Umm al-Qura calendar service of King Abdulaz
 
 This is the calculated civil calendar. In many countries the start of Ramadan, Eid and other religious dates is set by moon sighting, so the day people actually observe can be one day off from this table. For those dates, follow the announcement in your country.
 
+## Related data
+
+For the years 1447 to 1452 AH, with the six key Islamic dates of each year and a calendar file (.ics), see [RB9744/hijri-calendar-umm-al-qura](https://github.com/RB9744/hijri-calendar-umm-al-qura). The months the two datasets share are the same in both.
+
 ## Citation and licence
 
 The same data has a DOI on Zenodo: [10.5281/zenodo.24380406](https://doi.org/10.5281/zenodo.24380406).
